@@ -34,6 +34,8 @@ $font-size-10-sm: 48px !default;
 
 $white: #fff !default;
 
+
+$grey-nexofox: #878787 !default;
 $grey-dk-000: #959396 !default;
 $grey-dk-100: #5c5962 !default;
 $grey-dk-200: #44434d !default;
@@ -50,6 +52,7 @@ $purple-100: #5e41d0 !default;
 $purple-200: #4e26af !default;
 $purple-300: #381885 !default;
 
+$blue-nexofox: #14438F !default;
 $blue-000: #2c84fa !default;
 $blue-100: #2869e6 !default;
 $blue-200: #264caf !default;
@@ -64,6 +67,8 @@ $yellow-000: #ffeb82 !default;
 $yellow-100: #fadf50 !default;
 $yellow-200: #f7d12e !default;
 $yellow-300: #e7af06 !default;
+
+$orange-nexofox: #F29240 !default;
 
 $red-000: #f77e7e !default;
 $red-100: #f96e65 !default;
@@ -80,9 +85,9 @@ $feedback-color: darken($sidebar-color, 3%) !default;
 $body-text-color: $grey-dk-100 !default;
 $body-heading-color: $grey-dk-300 !default;
 $search-result-preview-color: $grey-dk-000 !default;
-$nav-child-link-color: $grey-dk-100 !default;
-$link-color: $purple-000 !default;
-$btn-primary-color: $purple-100 !default;
+$nav-child-link-color: $orange-nexofox !default;
+$link-color: $blue-nexofox !default;
+$btn-primary-color: $orange-nexofox !default;
 $base-button-color: #f7f7f7 !default;
 
 //
